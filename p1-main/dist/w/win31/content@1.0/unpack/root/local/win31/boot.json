@@ -1,0 +1,12 @@
+{
+    "icon": "c:/local/win31/icon16.png",
+    "zip": "c:/local/win31/image.zip",
+    "title": "Windows 3.1",
+    "ui": {
+        "showMenuBar": false,
+        "height": 501,
+        "width": 640,
+        "aspect": "stretch"
+    },
+    "args": ["-c", "AUTOEXEC.BAT"]
+}
